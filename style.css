@@ -56,7 +56,7 @@ hr {
   margin-left: -170px;
   left: 50%;
   z-index: 999;
-  font-size: 0.95em;
+  font-size: 0.95em; 
 }
 
 .leaflet-control-layers-expanded {
